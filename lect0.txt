@@ -1,6 +1,6 @@
-git config --global user.name "Sujal"
+git config --global user.name "Mayank"
 
-git config --global user.email "sujalpatidar24@gmail.com"
+git config --global user.email "mayankupsc10@gmail.com"
 
 git init
 git add README.md
